@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<head>
+  <title>favmovies</title>
+  <style>
+    /* The "#" is used to specify a particular id in style*/
+    #happy {
+      display: block;
+      float: none;
+      width: 200px;
+      border-radius: 100px;
+      margin-right: 5px;
+    }
+
+    #naruto {
+      display: block;
+      float: none;
+      width: 200px;
+      border-radius: 50px;
+      margin-right: 5px;
+    }
+
+    img {
+      display: block;
+      float: none;
+      width: 200px;
+      border-radius: 100px;
+      margin-right: 5px;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>The Best Animes According to Gaji</h1>
+  <img
+    src="https://wallpaperaccess.com/full/3950530.jpg"
+    alt="Anime image not found"
+    id="happy"
+  />
+
+  <h2>My top 3 Animes of all-time</h2>
+  <hr />
+  <!--This is used to rule out the heading from the contents-->
+
+  <h3>Naruto</h3>
+  <p>Amazing story line, carefully prepared to make you emotional.</p>
+  <img
+    src="https://1.bp.blogspot.com/-u4DYvnFCCUM/UIP6nRQaNzI/AAAAAAAALyc/TcZDDpsj4bs/s1600/Naruto+Shippuden+Wallpapers+9.jpg"
+    alt="naruto image not found :("
+    id="naruto"
+  />
+
+  <h3>Death Note</h3>
+  <p>
+    Scifi Movie, A teenager who believed he was chosen to Judge people's
+    actions.
+  </p>
+  <img
+    src="https://wallpaperset.com/w/full/5/4/7/341414.jpg"
+    alt="Oops! Image not found"
+  />
+
+  <h3>Attack on titan</h3>
+  <p>Twisted story plot, Get ready to see your Main characters die</p>
+  <img
+    src="https://th.bing.com/th/id/R.1aa6aef70d6fa47d0e3cbc366313d074?rik=Pi5pMtvBFDX%2bdw&riu=http%3a%2f%2fctrlgeekgirl.files.wordpress.com%2f2013%2f11%2fattackontitan-1.jpg&ehk=blVHthF5d6rE8lJCM1Kh%2bgG5ZbAoddey1TNMWPW2%2fIo%3d&risl=&pid=ImgRaw&r=0"
+    alt="oops! Image not found"
+  />
+
+  <h3>
+    <form>
+      <label for="che">Which is your No 1 Anime? </label>
+      <select name="animes" id="che">
+        <option value="ranked animes">Attack on Titan</option>
+        <!--The 'selected' button is used to choose Naruto by default-->
+        <option value="ranked animes" selected>Naruto</option>
+        <option value="ranked animes">Death note</option>
+        <option value="ranked animes">One Piece</option>
+        <input type="checkbox" name="animes" id="che" />
+      </select>
+    </form>
+    <br />
+
+    <h3>
+      <form>
+        <label for="email">Email Add: </label>
+        <!--This is another type of input in forms (email) -->
+        <input type="email" name="emails" id="email" /><br />
+        <label for="pass">Password: </label>
+        <!--This is another type of input in forms (password) -->
+        <input type="password" name="passwords" id="pass" /><br />
+        <label for="tel">Telephone: </label>
+        <input type="number" name="phone numbers" id="tel" />
+      </form>
+    </h3>
+  </h3>
+</body>
