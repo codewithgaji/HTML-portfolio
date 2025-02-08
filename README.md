@@ -12,7 +12,7 @@ Explore the following projects included in this portfolio:
 1. **Music Rank Project**: A platform for ranking favorite songs.
 2. **Birthday Invite Project**: A creative birthday invitation webpage.
 3. **Animals Ranking Project**: An interactive ranking of animals.
-4. **Personal Portfolio**: A detailed portfolio showcasing my journey.
+4. **Personal Portfolio**: A detailed portfolio showcasing my journey in tech.
 
 Feel free to test out the projects and provide feedback!
 
