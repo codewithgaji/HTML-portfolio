@@ -22,4 +22,6 @@ You can use This link to test out the Website: https://t.co/oElQnDij7l - Clone o
 ## Skills Demonstrated
 - Basic to intermediate HTML
 - Multi-page website creation
+- Image linking and styling
+- Practical application of web development concepts
 
