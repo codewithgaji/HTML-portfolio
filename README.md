@@ -17,7 +17,9 @@ Explore the following projects included in this portfolio:
 Feel free to test out the projects and provide feedback!
 
 ## How to View
-You can use This link to test out the Website: https://t.co/oElQnDij7l - Clone or download this repository, and open the files in any browser to explore the projects.
+You can use This [link](https://t.co/oElQnDij7l) to test out the Website. 
+
+- Clone or download this repository, and open the files in any browser to explore the projects.
 
 ## Skills Demonstrated
 - Basic to intermediate HTML
