@@ -14,7 +14,6 @@ Explore the following projects included in this portfolio:
 3. **Animals Ranking Project**: An interactive ranking of animals.
 4. **Personal Portfolio**: A detailed portfolio showcasing my journey in tech.
 
-Feel free to test out the projects and provide feedback!
 
 ## How to View
 You can use This [link](https://t.co/oElQnDij7l) to test out the Website. 
