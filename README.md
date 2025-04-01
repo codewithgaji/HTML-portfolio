@@ -21,3 +21,8 @@ You can use This [link](https://t.co/oElQnDij7l) to test out the Website.
 
 - Clone or download this repository, and open the files in any browser to explore the projects.
 
+## Skills Demonstrated
+- Basic to intermediate HTML
+- Multi-page website creation
+- Image linking and styling
+- Practical application of web development concepts
